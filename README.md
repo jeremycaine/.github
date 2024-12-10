@@ -9,11 +9,11 @@ Bee Agent Platform empowers developers to create, customize, and deploy AI agent
 - [Bee Agent Framework](https://github.com/i-am-bee/bee-agent-framework) - Build and customize AI agents with low-level abstractions (TypeScript)
   - [Starter](https://github.com/i-am-bee/bee-agent-framework-starter) - Get up and running quickly with a project template (TypeScript)
 - [Bee Stack](https://github.com/i-am-bee/bee-stack)- Build agents with no/low code (Docker Compose)
-- [Bee Python SDK](https://github.com/i-am-bee/bee-python-sdk) Integrate agents into your applications [bee-python-sdk] (Python)
+- [Bee Python SDK](https://github.com/i-am-bee/bee-python-sdk) Integrate agents into your applications (Python)
 
 ## 🌟 Build with Bee Agent Platform
 
-- [Bee](http://iambee.ai/) -  an experimental for business users [Join the waitlist](https://beeframework.ai/waitlist)
+- [Bee](http://iambee.ai/) -  an experimental for business users (Public Beta - Waitlist)
 
 ## 🤝 Community & Support
 
