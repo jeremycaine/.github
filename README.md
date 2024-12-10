@@ -1,6 +1,13 @@
-# Bee Agent Platform
+<p align="center">
+    <h1 align="center">Bee Agent Platform</h1>
+</p>
 
-The platform for building powerful AI agent workflows with open-source models.
+<p align="center">
+  <img align="cener" alt="Project Status: Alpha" src="https://img.shields.io/badge/Status-Alpha-red">
+
+  <h4 align="center">The platform for building powerful AI agent workflows with open-source models.</h4>
+</p>
+
 
 Bee Agent Platform empowers developers to create, customize, and deploy AI agents. Our ecosystem provides everything you need to build production-ready AI agents - from low-level primitives to no-code solutions.
 
