@@ -1,32 +1,23 @@
 # Bee Agent Platform
 
-___TK banner, include links here to Youtube and Discord TK___
+The platform for building powerful AI agent workflows with open-source models.
 
-The open-source platform for building powerful agentic workflows.
+Bee Agent Platform empowers developers to create, customize, and deploy AI agents. Our ecosystem provides everything you need to build production-ready AI agents - from low-level primitives to no-code solutions.
 
-The Bee Agent Platform empowers developers to create, customize, and deploy AI agents. Our ecosystem provides everything you need to build production-ready AI agents - from low-level primitives to no-code solutions.
+## 📦 Core Repositories
 
-## 📦 Core OSS repos
+- [Bee Agent Framework](https://github.com/i-am-bee/bee-agent-framework) - Build and customize AI agents with low-level abstractions (TypeScript)
+  - [Starter](https://github.com/i-am-bee/bee-agent-framework-starter) - Get up and running quickly with a project template (TypeScript)
+- [Bee Stack](https://github.com/i-am-bee/bee-stack)- Build agents with no/low code (Docker Compose)
+- [Bee Python SDK](https://github.com/i-am-bee/bee-python-sdk) Integrate agents into your applications [bee-python-sdk] (Python)
 
-### Where to get started?
+## 🌟 Build with Bee Agent Platform
 
-- Build your agent and tools programmatically with [bee-agent-framework-starter](https://github.com/i-am-bee/bee-agent-framework-starter) [Typescript]
-- Build your agents in a no/low code interface with [bee-stack](https://github.com/i-am-bee/bee-stack) [Docker-Compose]
-- Experiment with building custom agent components by extending [bee-agent-framework](https://github.com/i-am-bee/bee-agent-framework) [Typescript]
-- Integrate agents into your workflows and applications with [bee-api](https://github.com/i-am-bee/bee-api) [Typescript] or [bee-python-sdk](https://github.com/i-am-bee/bee-python-sdk) [Python]
-
-## 🌟 Products
-
-- [Bee Web App](http://iambee.ai/): an experimental app that helps business users unlock greater levels of productivity and creativity, built with Bee Agent Platform. [Join the waitlist](https://beeframework.ai/waitlist)
+- [Bee](http://iambee.ai/) -  an experimental for business users [Join the waitlist](https://beeframework.ai/waitlist)
 
 ## 🤝 Community & Support
 
-- __Discord__: Join our Discord Channel for community support.
+- [Discord](https://discord.com/channels/1309202615556378705/1309202615556378709) - Join our Discord Channel for community support.
+- [YouTube](https://www.youtube.com/@BeeAIAgents) - follow us to learn more about building and deploying open-source AI agents.  
 
-Developed with ❤️ by the Bee team and contributors. Supported by IBM Research.
-
-## Try out related open-source projects
-
-- [Docling](https://github.com/DS4SD/docling): Docling parses documents and exports them to the desired format with ease and speed.  
-- [Prompt Declaration Language](https://github.com/IBM/prompt-declaration-language): PDL is a declarative language designed for developers to create reliable, and composable LLM prompts.  
-- [Granite Model](https://github.com/ibm-granite): The IBM Granite family of foundation models and LoRAs.
+Developed with ❤️ by the Bee Team and contributors. Supported by IBM Research.
