@@ -20,7 +20,7 @@ Bee Agent Platform empowers developers to create, customize, and deploy AI agent
 
 🌟 Built on Bee Agent Platform
 
-- [Bee](http://iambee.ai/) - an experimental for business users  (Public beta - waitlist)
+- [Bee](http://iambee.ai/) - an experimental app for business users  (Public beta - waitlist)
 
 🤝 Community & support
 
