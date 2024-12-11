@@ -1,10 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/i-am-bee/.github/refs/heads/main/logo-light.svg#gh-dark-mode-only"
-    height="128"
-  />
-  <img
-    src="https://raw.githubusercontent.com/i-am-bee/.github/refs/heads/main/logo-dark.svg#gh-light-mode-only"
+    src="./logo-dark.svg"
     height="128"
   />
     <h1 align="center">Bee Agent Platform</h1>
