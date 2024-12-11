@@ -1,8 +1,5 @@
 <p align="center">
-  <img
-    src="./logo-dark.svg"
-    height="128"
-  />
+    <img alt="Bee Framework logo" src="./logo-dark.svg" height="128">
     <h1 align="center">Bee Agent Platform</h1>
 </p>
 
@@ -11,7 +8,6 @@
 
   <h4 align="center">The platform for building powerful AI agent workflows with open-source models.</h4>
 </p>
-
 
 Bee Agent Platform empowers developers to create, customize, and deploy AI agents. Our ecosystem provides everything you need to build production-ready AI agents - from low-level primitives to no-code interfaces.
 
