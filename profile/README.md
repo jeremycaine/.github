@@ -24,7 +24,7 @@ Bee Agent Platform empowers developers to create, customize, and deploy AI agent
 
 🤝 Community & support
 
-- [Discord](https://discord.com/channels/1309202615556378705/1309202615556378709) - Join our Discord Channel for community support.
+- [Discord](https://discord.com/channels/1309202615556378705/1309202615556378709) - Join our Discord Channel with [this invte](https://discord.gg/NUnKAzGwF9) for community support.
 - [YouTube](https://www.youtube.com/@BeeAIAgents) - follow us to learn more about building and deploying open-source AI agents. 
 ---
 Developed with ❤️ by the Bee Team and contributors. Supported by IBM Research.
